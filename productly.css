@@ -1,0 +1,135 @@
+
+
+.navbar-brand {
+    margin-left: 8.5rem;
+}
+
+.navbar-nav {
+    margin-left: 10rem;
+}
+
+.d-flex {
+    margin-right: 8.5rem;
+}
+
+.pt-7 {
+    margin-top: 3rem;
+}
+
+.text-md-start {
+    margin-top: 5rem;
+}
+
+/* BUTTON */
+
+.btn-secondary-outline {
+    color: #173A56;
+    border-color: #BCD0E5;
+    border: 0.0625rem solid #BCD0E5;
+    padding: 0.688rem 1.963rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    font-weight: 600;
+}
+
+.btn-warning {
+    padding: 0.688rem 1.963rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    color: #FFFEFE;
+    background-color: #f90;
+    border-color: #f90
+}
+
+.btn:hover {
+    background-color: none;
+    color: none;
+    border: none;
+}
+
+
+@keyframes float {
+    0% {
+        box-shadow:0 5px 15px 0px rgba(0,0,0,0.6);
+        transform: translateY(0px);
+    }
+
+    50% {
+        box-shadow:0 25px 15px 0px rgba(0,0,0,0.2);
+        transform: translateY(-20px);
+    }
+
+    0% {
+        box-shadow:0 5px 15px 0px rgba(0,0,0,0.6);
+        transform: translateY(0px);
+    }
+}
+
+.btn-lg {
+    overflow: hidden;
+    transform: translateY(0px);
+    animation: float 6s ease-in-out infinite;
+}
+
+.navbar-nav {
+    margin-left: 30rem;
+}
+
+.btn-lg {
+    padding: 0.938rem 2.563rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+}
+
+
+/* button */
+
+
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
+
+.mb-6 {
+    margin-top: 7.2rem;
+}
+
+.pb-2 {
+    margin-top: 15rem;
+}
+
+.py-8 {
+    margin: 10rem;
+}
+
+.card {
+    border: none;
+    box-shadow: 0px 0px 20px -10px;
+}
+
+.pt-5 {
+    margin-top: 10rem;
+}
+
+@media (max-width: 992px) {
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
